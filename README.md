@@ -14,7 +14,6 @@ Recognition of the Liscence Plate of a four wheeler vehicle and then recognition
 
 # How to run
 - Make sure you have the dependencies installed 
-- Clone github repository https://github.com/qqwweee/keras-yolo3 containing implementation of YOLOv3 using keras (git clone https://github.com/qqwweee/keras-yolo3).
 - Go to keras-yolo3 directory (cd keras-yolo3)
 - Download the Trained Model (Google Drive Link: https://drive.google.com/file/d/14iA1Z6JpV1WpA3UYdZSFnhVVFejBWOHL/view?usp=sharing) 
 - Move the trained model to keras-yolo3/model_data
