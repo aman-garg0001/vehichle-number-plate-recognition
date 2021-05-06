@@ -14,7 +14,7 @@ Recognition of the Liscence Plate of a four wheeler vehicle and then recognition
 
 # How to run
 - Make sure you have the dependencies installed 
-- Go to keras-yolo3 directory (cd keras-yolo3)
+- Go to kera-yolo3 directory (cd kera-yolo3)
 - Download the Trained Model (Google Drive Link: https://drive.google.com/file/d/14iA1Z6JpV1WpA3UYdZSFnhVVFejBWOHL/view?usp=sharing) 
 - Move the trained model to keras-yolo3/model_data
 - Run python yolo_video.py --image (for recognition of number plate in an image)
