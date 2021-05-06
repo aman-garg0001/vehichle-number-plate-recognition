@@ -1,0 +1,1 @@
+The number plate read by the OCR is <HR 69 6969>
