@@ -21,3 +21,15 @@ Recognition of the Liscence Plate of a four wheeler vehicle and then recognition
 - Enter path of the image to recognize
 - Run predict.py
 - The predicted image will be saved in prediction.jpg and the predicted number will be saved in num_plate.txt
+
+# Input Image
+![ss0](https://user-images.githubusercontent.com/43947335/117406764-1f637b80-af2b-11eb-8113-9a9f17234d7b.jpg)
+
+# Trained model run on the input
+![ss1](https://user-images.githubusercontent.com/43947335/117406839-44f08500-af2b-11eb-8dcd-5f4be20ee435.jpg)
+![ss2](https://user-images.githubusercontent.com/43947335/117406853-4cb02980-af2b-11eb-9c1c-220029ec1548.jpg)
+
+# Output
+![ss3](https://user-images.githubusercontent.com/43947335/117406881-576abe80-af2b-11eb-816b-40913c8b71e5.jpg)
+![ss4](https://user-images.githubusercontent.com/43947335/117406893-5d609f80-af2b-11eb-89de-c9ce15202079.jpg)
+
