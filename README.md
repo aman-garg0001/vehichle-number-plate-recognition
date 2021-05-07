@@ -5,6 +5,7 @@ Recognition of the Liscence Plate of a four wheeler vehicle and then recognition
 - Uses YOLOv3(an object detection algorithm) implementation using keras & tensorflow and easyocr for OCR purpose.
 - Dataset downloaded from https://www.kaggle.com/andrewmvd/car-plate-detection
 - Dataset labelled with labelImg (https://github.com/tzutalin/labelImg)
+- Model was trained by using transfer learning and it used pretrained darknet weights by freezing first 185 of 252 layers of the model.
 
 # Dependencies
 - Keras 2.1.5 (pip install keras==2.1.5)
